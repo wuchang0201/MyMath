@@ -1,4 +1,4 @@
-package users
+package MyMath
 
 const PI float32 =3.1415
 
